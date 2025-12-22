@@ -154,7 +154,7 @@ A decisão **mais segura e racional** é **vender a Loja 4**.
 
 ---
 
-## 📑 Resumo Executivo
+## Resumo Executivo
 
 | Indicador             | Melhor Loja       | Pior Loja         |
 | --------------------- | ----------------- | ----------------- |
@@ -164,7 +164,7 @@ A decisão **mais segura e racional** é **vender a Loja 4**.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python
 * Pandas
