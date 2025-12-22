@@ -164,11 +164,11 @@ A decisão **mais segura e racional** é **vender a Loja 4**.
 
 ---
 
-## Tecnologias Utilizadas
-
-* Python
-* Pandas
-* Matplotlib
-* Jupyter Notebook
+## TECNOLOGIAS UTILIZADAS
+*	Python
+*	Pandas
+*	Matplotlib
+*	Google Colab
+*	GitHub
 
 ---
