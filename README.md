@@ -42,7 +42,7 @@ Essa abordagem facilita análises comparativas e escalabilidade do projeto.
 
 ##  Etapas da Análise
 
-### 1️⃣ Faturamento Total por Loja
+###  Faturamento Total por Loja
 
 O faturamento é a principal métrica de desempenho financeiro.
 
@@ -57,7 +57,7 @@ O faturamento é a principal métrica de desempenho financeiro.
 
 ---
 
-### 2️⃣ Faturamento por Categoria
+### Faturamento por Categoria
 
 A receita da rede é fortemente concentrada em categorias de maior valor agregado:
 
@@ -65,21 +65,21 @@ A receita da rede é fortemente concentrada em categorias de maior valor agregad
 * **Eletrodomésticos:** 30,1%
 * **Móveis:** 17,2%
 
-➡️ Essas três categorias representam **85% do faturamento total** da AluraStore.
+ Essas três categorias representam **85% do faturamento total** da AluraStore.
 
 **Observação:** Categorias como *Instrumentos Musicais* e *Esporte e Lazer* possuem participação marginal.
 
 ---
 
-### 3️⃣ Sazonalidade de Vendas
+###  Sazonalidade de Vendas
 
 A análise temporal revelou comportamento **cíclico do faturamento mensal**, com picos em períodos específicos, indicando sazonalidade possivelmente relacionada a datas promocionais e épocas festivas.
 
-➡️ Essa informação é estratégica para decisões de **estoque, marketing e logística**.
+ Essa informação é estratégica para decisões de **estoque, marketing e logística**.
 
 ---
 
-### 4️⃣ Média de Avaliação dos Clientes
+###  Média de Avaliação dos Clientes
 
 | Loja   | Média de Avaliação |
 | ------ | ------------------ |
@@ -95,7 +95,7 @@ A análise temporal revelou comportamento **cíclico do faturamento mensal**, co
 
 ---
 
-### 5️⃣ Custo Médio do Frete por Loja
+###  Custo Médio do Frete por Loja
 
 | Loja   | Custo Médio do Frete (R$) |
 | ------ | ------------------------- |
@@ -110,7 +110,7 @@ A análise temporal revelou comportamento **cíclico do faturamento mensal**, co
 
 ##  Cenários Estratégicos Avaliados
 
-### ✅ Cenário 1 – Vender a Loja de Pior Desempenho (Recomendado)
+###  Cenário 1 – Vender a Loja de Pior Desempenho (Recomendado)
 
 **Recomendação:** Vender a **Loja 4**
 
@@ -124,7 +124,7 @@ A análise temporal revelou comportamento **cíclico do faturamento mensal**, co
 
 ---
 
-### ⚠️ Cenário 2 – Vender a Loja de Maior Dificuldade Operacional (Alternativa)
+### Cenário 2 – Vender a Loja de Maior Dificuldade Operacional (Alternativa)
 
 **Alternativa:** Vender a **Loja 1**
 
