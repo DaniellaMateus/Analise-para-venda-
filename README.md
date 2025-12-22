@@ -1,23 +1,23 @@
-# 📊 Análise de Vendas e Desempenho das Lojas – AluraStore Brasil
+# Análise de Vendas e Desempenho das Lojas – AluraStore Brasil
 
 Projeto de **Análise de Dados** desenvolvido para gerar **insights acionáveis** sobre o desempenho comercial da rede **AluraStore Brasil**. A análise investiga padrões de vendas, popularidade de categorias, custos logísticos e performance financeira de cada loja, com o objetivo de **subsidiar uma decisão estratégica de venda de uma unidade**.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Apoiar o **Sr. João**, proprietário da rede, na decisão de **qual loja vender** para reinvestir o capital em um novo negócio, utilizando dados como base para uma decisão racional, segura e estratégica.
 
 ---
 
-## 📂 Fonte dos Dados
+## Fonte dos Dados
 
 * Arquivos **CSV locais**
 * Total de **9.435 vendas**, consolidadas a partir das quatro lojas da rede
 
 ---
 
-## 🧹 Processamento e Transformação dos Dados
+## Processamento e Transformação dos Dados
 
 Os dados estavam bem estruturados, sem valores nulos ou duplicados relevantes. Ainda assim, foram aplicadas boas práticas para padronização, organização e ganho de eficiência analítica.
 
@@ -40,7 +40,7 @@ Essa abordagem facilita análises comparativas e escalabilidade do projeto.
 
 ---
 
-## 📊 Etapas da Análise
+##  Etapas da Análise
 
 ### 1️⃣ Faturamento Total por Loja
 
@@ -108,7 +108,7 @@ A análise temporal revelou comportamento **cíclico do faturamento mensal**, co
 
 ---
 
-## 🧠 Cenários Estratégicos Avaliados
+##  Cenários Estratégicos Avaliados
 
 ### ✅ Cenário 1 – Vender a Loja de Pior Desempenho (Recomendado)
 
@@ -140,7 +140,7 @@ A análise temporal revelou comportamento **cíclico do faturamento mensal**, co
 
 ---
 
-## 📌 Recomendação Final
+## Recomendação Final
 
 A decisão **mais segura e racional** é **vender a Loja 4**.
 
